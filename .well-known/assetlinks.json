@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.signify.signify_lumxpert_frontend",
+    "package_name": "com.example.shinbun",
     "sha256_cert_fingerprints":
-    ["8A:FF:39:0A:64:9A:7B:D7:DB:50:D2:CE:D0:0E:4D:76:A7:16:EA:C5:05:99:2E:AD:03:30:F1:1E:5B:4F:34:4B"]
+    ["D6:52:89:2D:A2:0D:1A:56:04:9D:F9:51:95:2C:6F:11:49:ED:64:F6:B7:65:88:16:BD:3B:F1:3D:51:A0:C3:F3"]
   }
 }]
