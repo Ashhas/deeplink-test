@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.shinbun",
+    "package_name": "com.example.deeplink_test",
     "sha256_cert_fingerprints":
     ["D6:52:89:2D:A2:0D:1A:56:04:9D:F9:51:95:2C:6F:11:49:ED:64:F6:B7:65:88:16:BD:3B:F1:3D:51:A0:C3:F3"]
   }
